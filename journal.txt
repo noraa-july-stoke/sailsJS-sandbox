@@ -1,0 +1,9 @@
+
+
+1. sails new sails-app
+
+2. sails generate api "articles" && sails api generate api "customers"
+
+3. changed default datastore in config folder to use mongodb. the instructions were clear in the file on what to do. run db.getMongo() to find connection string
+
+4.
